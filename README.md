@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:005f73,100:0a9396&height=220&section=header&text=Jade%20Salvador&fontSize=48&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Creative%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Jade Salvador profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Jade%20Salvador&fontSize=56&fontColor=0A9396&fontFamily=Fira%20Code&animation=scaleIn" alt="Jade Salvador animated text title" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0A9396&center=true&vCenter=true&width=760&lines=Building+useful+web+experiences;Full-Stack+Development+%7C+Web+Technologies;Creative+Engineering+%7C+Digital+Tools;Creating+the+Manhwa+Library)](https://git.io/typing-svg)
 
