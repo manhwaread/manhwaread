@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Jade%20Salvador&fontSize=56&fontColor=0A9396&fontFamily=Fira%20Code&animation=scaleIn" alt="Jade Salvador animated text title" />
+<img src="./assets/profile-banner.gif" width="100%" alt="Looping neon laser sweeps across Jade Salvador's name over animated teal waves and glowing sparks" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0A9396&center=true&vCenter=true&width=760&lines=Building+useful+web+experiences;Full-Stack+Development+%7C+Web+Technologies;Creative+Engineering+%7C+Digital+Tools;Creating+the+Manhwa+Library)](https://git.io/typing-svg)
 
