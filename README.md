@@ -22,8 +22,7 @@
 
 ## 👋 About Me
 
-I design and develop web applications and digital tools with a focus on usability, efficiency, and interactive experiences.
-I enjoy working with modern web technologies and building creative solutions, including the Manhwa Library platform.
+I loved reading manhwa/manhua and manga, I also loved playing badmintons and lastly, I don't know how to code. Please hire me.
 
 ---
 
