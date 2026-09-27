@@ -69,12 +69,16 @@ I loved reading manhwa/manhua and manga, I also loved playing badmintons and las
 
 <div align="center">
 
+<img src="./assets/analytics-fire.gif" width="100%" alt="Looping meteor shower over animated orange and red flames" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manhwaread&theme=tokyonight" height="180" alt="GitHub stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manhwaread&theme=tokyonight" height="180" alt="Top languages" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhwaread&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub contribution streak" />
+
+<img src="./assets/analytics-fire.gif" width="100%" alt="Animated embers and meteors framing the analytics cards" />
 
 </div>
 
