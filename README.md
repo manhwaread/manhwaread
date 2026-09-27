@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I loved reading manhwa/manhua and manga, I also loved playing badmintons and lastly, I don't know how to code. Please hire me.
+I loved reading manhwa/manhua and manga, I also loved playing badminton and lastly, I don't know how to code. Please hire me.
 
 ---
 
