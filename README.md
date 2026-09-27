@@ -45,8 +45,8 @@ I loved reading manhwa/manhua and manga, I also loved playing badmintons and las
 | 🏷️ Role | 🏛️ Organization | 🔗 Status |
 |:---|:---|:---|
 | **Member** | [Aquanons](https://github.com/Aquanons) | Active |
-| **Member** | [Seamly](https://github.com/seamly) | Active |
-| **Member** | [DevGuild](https://github.com/devguild) | Active |
+| **Member** | [Seamly](https://github.com/Stylorista) | Active |
+| **Member** | [DevGuild](https://github.com/DevGuild-ASU) | Active |
 
 </div>
 
